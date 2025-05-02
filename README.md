@@ -33,3 +33,5 @@ Asegúrate de tener instalados los siguientes elementos en tu entorno de desarro
 - **Angular CLI** (versión más reciente compatible con Angular 18)
     
 - **NPM** o **Yarn** como gestor de paquetes
+
+- 😊
