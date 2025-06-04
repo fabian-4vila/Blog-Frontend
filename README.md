@@ -34,7 +34,7 @@ Asegúrate de tener instalados los siguientes elementos en tu entorno de desarro
     
 - **NPM** o **Yarn** como gestor de paquetes
 
-## estructura del proyecto
+## Estructura del proyecto
 ```zsh
 B-F-E-Commerce/
 ├── .vscode/                 
