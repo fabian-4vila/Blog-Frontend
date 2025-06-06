@@ -40,9 +40,9 @@ B-F-E-Commerce/
 ├── .vscode/                 
 │
 ├── public/                   
-│           
-├── src/                      
-│    └── favicon.ico      
+│    └── favicon.ico       
+├── src/  
+│          
 ├── .editorconfig            
 ├── .gitignore              
 ├── README.md              
