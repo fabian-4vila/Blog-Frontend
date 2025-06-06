@@ -42,7 +42,11 @@ B-F-E-Commerce/
 ├── public/                   
 │    └── favicon.ico       
 ├── src/  
-│          
+│    ├── app
+│    ├── environments
+│    ├── index.html
+│    ├── main.ts
+│    └── styles.scss    
 ├── .editorconfig            
 ├── .gitignore              
 ├── README.md              
