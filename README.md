@@ -46,6 +46,9 @@ B-F-E-Commerce/
 ├── src/  
 │    ├── app/
 │    │    ├── products/
+│    │    │    ├── data-access
+│    │    │    ├── features
+│    │    │    ├── ui/product-card
 │    │    ├── shared/
 │    │    ├── app.component.html
 │    │    ├── app.component.scss
