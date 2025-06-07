@@ -45,14 +45,14 @@ B-F-E-Commerce/
 │    └── favicon.ico       
 ├── src/  
 │    ├── app/
-│├── products/
-│├── shared/
-│├── app.component.html
-│├── app.component.scss
-│├── app.component.spec.ts
-│├── app.component.ts
-│├── app.config.ts
-│├── app.routes.ts
+│    │    ├── products/
+│    │    ├── shared/
+│    │    ├── app.component.html
+│    │    ├── app.component.scss
+│    │    ├── app.component.spec.ts
+│    │    ├── app.component.ts
+│    │    ├── app.config.ts
+│    │    ├── app.routes.ts
 │    ├── environments
 │    ├── index.html
 │    ├── main.ts
