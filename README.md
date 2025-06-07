@@ -52,7 +52,7 @@ B-F-E-Commerce/
 │    │    ├── app.component.spec.ts
 │    │    ├── app.component.ts
 │    │    ├── app.config.ts
-│    │    ├── app.routes.ts
+│    │    └── app.routes.ts
 │    ├── environments
 │    ├── index.html
 │    ├── main.ts
