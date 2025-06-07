@@ -1,6 +1,5 @@
-# Blog con Angular 18
-
-Este proyecto es un blog desarrollado con Angular 18, enfocado exclusivamente en temas de programación. El objetivo es crear una plataforma dinámica donde los usuarios puedan acceder a contenido técnico actualizado, interactuar con las publicaciones mediante comentarios y puntuaciones, y fomentar una comunidad activa de desarrolladores.
+# Ecommerce de Práctica con Angular 18
+Este proyecto es un ecommerce de práctica desarrollado con Angular 18. El objetivo es construir una plataforma dinámica donde los usuarios puedan explorar productos, agregarlos al carrito, gestionar sus compras y simular una experiencia real de comercio electrónico. Esta aplicación está pensada como ejercicio práctico para mejorar las habilidades en desarrollo frontend con Angular.
 
 ## Tecnologías
 
@@ -17,7 +16,7 @@ Este proyecto es un blog desarrollado con Angular 18, enfocado exclusivamente en
 
 - Publicación de notas diarias.
     
-- Sistema de visualización de las entradas del blog.
+- Sistema de visualización de las entradas.
     
 - Diseño responsivo para diferentes dispositivos.
     
