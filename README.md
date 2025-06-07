@@ -38,7 +38,9 @@ Asegúrate de tener instalados los siguientes elementos en tu entorno de desarro
 ```zsh
 B-F-E-Commerce/
 ├── .vscode/                 
-│
+│     ├── extensions.json
+│     ├── launch.json
+│     └── tasks.json
 ├── public/                   
 │    └── favicon.ico       
 ├── src/  
