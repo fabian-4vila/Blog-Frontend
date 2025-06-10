@@ -58,7 +58,9 @@ B-F-E-Commerce/
 │    │    ├── app.component.ts
 │    │    ├── app.config.ts
 │    │    └── app.routes.ts
-│    ├── environments
+│    ├── environments/
+│    │    ├──environment.development.ts
+│    │    └── environment.ts
 │    ├── index.html
 │    ├── main.ts
 │    └── styles.scss    
