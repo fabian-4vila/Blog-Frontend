@@ -50,6 +50,9 @@ B-F-E-Commerce/
 │    │    │    │    └── products.service.ts
 │    │    │    ├── features/
 │    │    │    │    ├── product-detail/
+│    │    │    │    │   ├── product-detail.component.html
+│    │    │    │    │   ├── product-detail.component.spec.ts
+│    │    │    │    │   └── product-detail.component.ts
 │    │    │    │    ├── product-list/
 │    │    │    │    └── product-shell/
 │    │    │    └── ui/product-card/
