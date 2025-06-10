@@ -49,9 +49,9 @@ B-F-E-Commerce/
 │    │    │    │    ├── products-state.service.ts
 │    │    │    │    └── products.service.ts
 │    │    │    ├── features/
-product-detail/
-product-list/
-product-shell/
+│    │    │    │    ├── product-detail/
+│    │    │    │    ├── product-list/
+│    │    │    │    └── product-shell/
 │    │    │    └── ui/product-card/
 │    │    ├── shared/
 │    │    │    ├── UI/header/
