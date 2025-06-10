@@ -49,13 +49,9 @@ B-F-E-Commerce/
 │    │    │    ├── features/
 │    │    │    └── ui/product-card/
 │    │    ├── shared/
-UI/header
-init
-last month
-data-access
-init
-2 months ago
-interfaces
+│    │    │    ├── UI/header
+│    │    │    ├── data-access
+│    │    │    └── interfaces
 │    │    ├── app.component.html
 │    │    ├── app.component.scss
 │    │    ├── app.component.spec.ts
