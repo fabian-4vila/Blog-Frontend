@@ -49,9 +49,9 @@ B-F-E-Commerce/
 │    │    │    ├── features/
 │    │    │    └── ui/product-card/
 │    │    ├── shared/
-│    │    │    ├── UI/header
-│    │    │    ├── data-access
-│    │    │    └── interfaces
+│    │    │    ├── UI/header/
+│    │    │    ├── data-access/
+│    │    │    └── interfaces/
 │    │    ├── app.component.html
 │    │    ├── app.component.scss
 │    │    ├── app.component.spec.ts
