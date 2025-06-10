@@ -46,10 +46,8 @@ B-F-E-Commerce/
 │    ├── app/
 │    │    ├── products/
 │    │    │    ├── data-access/
-products-state.service.ts
-init
-last month
-products.service.ts
+│    │    │    │    ├── products-state.service.ts
+│    │    │    │    └── products.service.ts
 │    │    │    ├── features/
 │    │    │    └── ui/product-card/
 │    │    ├── shared/
