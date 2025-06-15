@@ -54,7 +54,11 @@ B-F-E-Commerce/
 │    │    │    │    │   ├── product-detail.component.spec.ts
 │    │    │    │    │   └── product-detail.component.ts
 │    │    │    │    ├── product-list/
+│    │    │    │    │    ├── product-list.component.html
+│    │    │    │    │    ├── product-list.component.spec.ts
+│    │    │    │    │    └── product-list.component.ts
 │    │    │    │    └── product-shell/
+│    │    │    │         └── product-route.ts
 │    │    │    └── ui/product-card/
 │    │    ├── shared/
 │    │    │    ├── UI/header/
@@ -83,6 +87,5 @@ B-F-E-Commerce/
 ├── tsconfig.app.json        
 ├── tsconfig.json          
 └── tsconfig.spec.json       
-
 ```
 
