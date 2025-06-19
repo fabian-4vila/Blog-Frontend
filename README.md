@@ -60,8 +60,8 @@ B-F-E-Commerce/
 │    │    │    │    └── product-shell/
 │    │    │    │         └── product-route.ts
 │    │    │    └── ui
-│    │    │        └── product-card/
-│    │    │              ├── product-card.component.html
+│    │    │         └── product-card/
+│    │    │              ├── product-card.component.html
 │    │    │              ├── product-card.component.spec.ts
 │    │    │              └── product-card.component.ts
 │    │    ├── shared/
