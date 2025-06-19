@@ -67,6 +67,7 @@ B-F-E-Commerce/
 │    │    ├── shared/
 │    │    │    ├── UI/header/
 │    │    │    ├── data-access/
+│    │    │    │    └── base-http.service.ts
 │    │    │    └── interfaces/
 │    │    ├── app.component.html
 │    │    ├── app.component.scss
