@@ -59,7 +59,11 @@ B-F-E-Commerce/
 │    │    │    │    │    └── product-list.component.ts
 │    │    │    │    └── product-shell/
 │    │    │    │         └── product-route.ts
-│    │    │    └── ui/product-card/
+│    │    │    └── ui
+│    │    │         └── product-card/
+│    │    │              ├── product-card.component.html
+│    │    │              ├── product-card.component.spec.ts
+│    │    │              └── product-card.component.ts
 │    │    ├── shared/
 │    │    │    ├── UI/header/
 │    │    │    ├── data-access/
