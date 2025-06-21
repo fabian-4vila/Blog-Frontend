@@ -80,7 +80,8 @@ B-F-E-Commerce/
 │    │    └── environment.ts
 │    ├── index.html
 │    ├── main.ts
-│    └── styles.scss    
+│    └── styles.scss
+├── cart/ 
 ├── .editorconfig            
 ├── .gitignore              
 ├── README.md              
